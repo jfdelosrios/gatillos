@@ -1,0 +1,7 @@
+LIBRARY gatillos
+EXPORTS
+	Init		@1
+	Calculate	@2
+	ReplaceStr	@3
+	IntrfProcsRec	@4
+	OnParamsChange	@5
